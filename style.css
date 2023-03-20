@@ -6,9 +6,21 @@ hr {
     border-style: dotted none none;
     border-width: 5px;
     border-color: grey;
-    width: 10%;
+    width: 2%;
+    margin: auto;
 }
 
 img {
     height: 200px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.navbar-brand {
+    margin: 10px;
+    padding-right: 50%;
+
+}
+.nav-item {
+    margin: 10px;
 }
