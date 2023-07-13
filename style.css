@@ -12,13 +12,12 @@ header{
   background-position: right;
   margin-right: 50%;
   margin-bottom: 0;
-  margin-top: 5%;
+  margin-top: 0;
 }
 ::selection{
   background: #a3f5ec;
 }
 header nav{
-  
   width: 100%;
   left: 0;
   top: 0;
@@ -178,7 +177,7 @@ header .media-icons{
 
 
 .portfolio {
-  padding: 100px 0;
+  padding: 50px 0;
 }
 
 .portfolio .container {
@@ -226,7 +225,7 @@ header .media-icons{
 }
 
 .services {
-  padding: 100px 0;
+  padding: 50px 0;
 }
 
 .services .container {
@@ -264,7 +263,7 @@ header .media-icons{
 }
 
 .contact {
-  padding: 100px 0;
+  padding: 50px 0;
 }
 
 .contact .container {
@@ -306,6 +305,8 @@ header .media-icons{
 .contact .info-item span {
   font-size: 16px;
   color: #2c3350;
+  margin-left: 2px;
+  margin-right: 5px;
 }
 
 .contact .contact-form {
@@ -341,7 +342,7 @@ header .media-icons{
   background-color: #1de2d1;
 }
 .about {
-  padding: 100px 0;
+  padding: 10px 0;
   text-align: center;
 }
 
