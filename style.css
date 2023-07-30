@@ -160,6 +160,16 @@ header .media-icons{
   right: 40px;
   bottom: 40px;
 }
+@media screen and (max-width: 768px) {
+  header {
+    background-position: center;
+  }
+}
+
+::selection {
+  background: #a3f5ec;
+}
+
 .media-icons a{
  margin-top: 8px;
  font-size: 20px;
